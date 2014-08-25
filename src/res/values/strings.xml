@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Arabic Text Reader</string>
+    
+	<string name="settings_fflabel">Font Face</string>
+	<string name="settings_fslabel">Font Size</string>
+	<string name="settings_fclabel">Font Color</string>
+	<string name="settings_bclabel">Background Color</string>
+	<string name="settings_mlabel">Margin</string>
+	<string name="settings_pslabel">Paragraph Separator</string>
+	<string name="sample_1">مثال لعرض النص حسب الإعدادات المختارة.</string>
+	<string name="sample_2">حسب الإعدادات المختارة يمكنك احتيار الخواص المختلفة لعرض النص</string>
+	<string name="black">Black</string>
+	<string name="blue">Blue</string>
+	<string name="green">Green</string>
+	<string name="red">Red</string>
+	<string name="white">White</string>
+	<string name="serching">Searching...</string>
+	<string name="settings_btn_ok">OK</string>
+	<string name="settings_btn_cancel">Cancel</string>
+	<string name="MenuOpen">Open Book</string>
+	<string name="MenuAbout">About</string>
+	<string name="MenuSettings">Settings</string>
+	<string name="MenuExit">Exit</string>
+	<string name="tab_storage">Open File</string>
+	<string name="tab_history">Recent Opened</string>
+	<string name="alert">Alert</string>
+	<string name="file_moved">This file is moved or deleted!</string>
+	<string name="About_content">Arabic Text Reader 1.1.5 \n Bilkan Electronics Technology Co., Ltd \n http://www.bilkan.net</string>
+</resources>

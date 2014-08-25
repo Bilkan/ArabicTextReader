@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قارئ ملفات نصية</string>
+    
+	<string name="settings_fflabel">خطوط النظام</string>
+	<string name="settings_fslabel">حجم الخط</string>
+	<string name="settings_fclabel">لون الخط</string>
+	<string name="settings_bclabel">لون الخلفية</string>
+	<string name="settings_mlabel">هوامش</string>
+	<string name="settings_pslabel">تقسيم للفقرات</string>
+	<string name="sample_1">مثال لعرض النص حسب الإعدادات المختارة.</string>
+	<string name="sample_2">حسب الإعدادات المختارة يمكنك احتيار الخواص المختلفة لعرض النص</string>
+	<string name="black">أسود</string>
+	<string name="blue">أزرق</string>
+	<string name="green">أخضر</string>
+	<string name="red">أحمر</string>
+	<string name="white">أبيض</string>
+	<string name="serching">بحث...</string>
+	<string name="settings_btn_ok">موافق</string>
+	<string name="settings_btn_cancel">إلغاء</string>
+	<string name="MenuOpen">فتح ملف</string>
+	<string name="MenuAbout">حول</string>
+	<string name="MenuSettings">إعدادات</string>
+	<string name="MenuExit">خروج</string>
+	<string name="tab_storage">Open File</string>
+	<string name="tab_history">Recent Opened</string>
+	<string name="alert">ئەسكەرتىش</string>
+	<string name="file_moved">مەزكور ھۆججەت باشقا ئورۇنغا يۆتكىۋىتېلگەن ياكى ئۆچۈرۈلگەن</string>
+	<string name="About_content">قارئ ملفات نصية 1.1.5 \n قسم البرمجيات بشركة بلكان التقنية \n http://www.bilkan.net</string>
+</resources>
